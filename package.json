@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "cookies": "^0.7.2",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "mongoose": "^5.3.8",
+    "swig": "^1.4.2"
+  }
+}
